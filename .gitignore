@@ -1,0 +1,72 @@
+# Archivos de Jupyter Notebook y Jupyter Lab
+.ipynb_checkpoints/
+.jupyter/
+.local/share/jupyter/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuraciones de usuario y cachés
+.mypy_cache/
+.pytest_cache/
+.cache/
+.env
+.venv
+venv/
+*.env
+*.venv
+*.bak
+*.log
+
+# Archivos de salida y metadata generada
+*.sqlite3
+*.db
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.pickle
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Configuración específica de Jupyter Lab
+.lab/
+.lite/
+.settings/
+
+# Archivos de paquetes y dependencias
+pip-wheel-metadata/
+pip-log.txt
+poetry.lock
+Pipfile
+Pipfile.lock
+node_modules/
+package-lock.json
+yarn.lock
+
+# Extensiones y plugins de Jupyter Lab
+*.jl
+*.js
+*.map
+*.so
+*.dll
+*.dylib
+
+# Imágenes y datos temporales
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+*.eps
+
+# Archivos de ejecución
+nohup.out
+*.pid
+*.sock
