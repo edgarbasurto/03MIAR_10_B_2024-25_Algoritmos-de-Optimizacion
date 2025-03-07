@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.DS_Store
 
 # Configuraciones de usuario y cachés
 .mypy_cache/
